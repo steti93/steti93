@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @steti93
-- 👀 I’m interested in Process Automation
+- 👀 I’m interested in Automation Processes
 - 🌱 I’m currently learning java, javascript, PHP
 - 💞️ I’m looking to collaborate on some startups
 - 📫 You can reach me on https://www.linkedin.com/in/teslari-stefan-6783a684/
