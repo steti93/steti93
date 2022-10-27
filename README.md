@@ -2,7 +2,6 @@
 - 👀 I’m interested in Automation Processes
 - 🌱 I’m currently learning java, javascript, PHP
 - 💞️ I’m looking to collaborate on some startups
-- 📫 You can reach me on https://www.linkedin.com/in/teslari-stefan-6783a684/
 
 <!---
 steti93/steti93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
